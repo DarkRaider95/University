@@ -1,0 +1,135 @@
+/*Tommaso Toscano Corso B css per esercizio 2 laboratorio*/
+html, body{
+	background-image: url(http://courses.cs.washington.edu/courses/cse190m/11sp/homework/2/background.png);
+	font-family: Verdana, Tahoma, sans-serif;
+	font-size: 8pt;
+	margin:0;
+	padding: 0;
+}
+
+#banner{
+	background-image: url(http://courses.cs.washington.edu/courses/cse190m/11sp/homework/2/bannerbg.png);
+	height:50px;
+}
+
+#banner img{
+	display: block;
+	margin:auto;
+}
+
+h1{
+	text-align: center;
+	font-weight: bold;
+	font-size: 24pt;
+	font-family: Verdana, Tahoma, sans-serif;
+	text-shadow: 3px 3px #999999;
+}
+
+#text{
+	margin:auto;
+	width: 800px;
+	border: 4px solid black;
+	border-radius: 25px;
+	overflow: hidden;
+}
+
+#overview{
+	float:right;
+	width:250px;
+	background-color: #A2B964;
+	font-size: 8pt;
+	font-family: Arial, sans-serif;
+}
+
+#overview dl{
+	margin: 10pt;
+}
+
+#overview dd{
+	line-height: 10pt;
+}
+
+#overview dt{
+	font-weight: bold;
+	margin-top: 10pt;
+}
+
+#overview dd ul{
+	list-style-type: none;
+	padding-left:0;
+}
+
+#rewiew{
+	float:left;
+	width:550px;
+}
+
+#backrotten{
+	background-image: url(http://courses.cs.washington.edu/courses/cse190m/11sp/homework/2/rbg.png);
+	height: 83px;
+	font-weight: bold;
+	color: red;
+	font-size: 48pt;
+}
+
+#backrotten img{
+	vertical-align: bottom;
+}
+
+.columns{
+	width: 47%;
+	margin-left:2%;
+	float:left;
+}
+
+.reviews{
+	font-size: 8pt;
+	font-weight: bold;
+	background-color: #E8DC9B;
+	border: solid 2px gray;
+	border-radius: 10px;
+	padding: 8px;
+	text-align: left;
+	float:left;
+	clear: left;
+}
+
+.reviews img{
+	margin-right:5px;
+	display: block;
+	float: left;
+}
+
+.critic{
+	clear:left;
+	font-style: italic;
+	margin-bottom: 20pt;
+}
+
+.critic:first-line{
+	font-style: normal;
+}
+.critic img{
+	margin-left: 5px;
+	float:left;
+}
+
+#botbar {
+	clear:both;
+	background-color: #A2B964;
+	padding: 5px;
+}
+
+#botbar p{
+	text-align: center;
+}
+
+#validator{
+	position:fixed;
+	bottom:0;
+	right:0;
+}
+
+#validator img{
+	opacity: 0.5;
+}

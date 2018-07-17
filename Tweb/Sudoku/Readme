@@ -1,0 +1,6 @@
+Per installare il sito, basta copiare la cartella così com'è nella cartella www.
+I path relativi all'interno dei file funzionano anche se mettete i file in un 
+altra cartella.
+
+Per installare il database invece è sufficiente importare nel vostro database il
+file sudokudb.sql

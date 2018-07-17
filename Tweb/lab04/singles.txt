@@ -1,0 +1,53 @@
+Ada Lovelace,F,96,ISTJ,Linux,24,99,M
+Adele Goldberg,F,65,ENFJ,Windows,50,70,M
+Alan Turing,M,41,ESTP,Mac OS X,31,50,F
+Anakin Skywalker,M,27,INTJ,Linux,15,30,F
+Angry Video Game Nerd,M,29,ISTJ,Mac OS X,1,99,F
+Anita Borg,F,54,ISFP,Windows,41,55,M
+Barbara Liskov,F,71,ESFJ,Mac OS X,41,76,M
+Bill Gates,M,52,INTJ,Windows,2,99,F
+Bill Joy,M,54,ENFP,Linux,50,70,F
+Bjarne Stroustroup,M,59,INFJ,Windows,40,62,F
+Buffy Summers,F,27,INTP,Windows,18,49,M
+Charles Babbage,M,79,ESFP,Linux,30,82,F
+Dana Scully,F,41,ISTJ,Mac OS X,36,54,M
+Deanna Troi,F,53,ENFJ,Mac OS X,32,48,M
+Donald Knuth,M,70,INTJ,Linux,12,17,F
+Edsger Dijkstra,M,72,ISTP,Linux,16,58,F
+Ellen Ripley,F,35,ESFJ,Linux,20,40,M
+Frances Allen,F,78,ESTP,Linux,67,78,M
+Gordon Moore,M,81,ENFP,Windows,60,99,F
+Grace Hopper,F,87,ISFP,Windows,47,80,M
+Jadzia Dax,F,46,ENFJ,Mac OS X,18,32,M
+James Gosling,M,55,ESFJ,Linux,18,40,F
+Jeannette Wing,F,38,INTP,Mac OS X,45,60,M
+Kathryn Janeway,F,49,ESTJ,Windows,30,55,M
+Lara Croft,F,23,ENTP,Linux,18,30,M
+Leeloo,F,19,ISTJ,Linux,1,99,M
+Leia Organa,F,53,ISFJ,Windows,20,60,M
+Lenore Blum,F,70,INTP,Mac OS X,66,99,M
+Marissa Mayer,F,35,ENTP,Linux,20,40,M
+Mary Lou Jepsen,F,45,ISTJ,Windows,10,80,M
+Ms Frizzle,F,39,ENTP,Mac OS X,19,49,M
+Natalie Portman,F,26,INFJ,Mac OS X,20,39,M
+Niklaus Wirth,M,76,ENFJ,Windows,50,77,F
+Nostalgia Critic,M,28,ENTJ,Linux,12,79,F
+Nyota Uhura,F,77,ENFP,Mac OS X,70,99,M
+Oldspice Guy,M,36,ENTJ,Windows,1,99,F
+Rasmus Lerdorf,M,41,ENTP,Linux,15,35,F
+Richard Stallman,M,57,ISFJ,Linux,46,56,F
+River Tam,F,26,ENTJ,Linux,18,25,M
+Roberta Williams,F,57,ENFP,Windows,54,67,M
+Rosie O Donnell,F,46,ENFJ,Windows,30,50,M
+Sarah Connor,F,53,ISFP,Windows,49,67,M
+Seven of Nine,F,40,ISTJ,Windows,12,50,M
+Stewie Griffin,M,1,INTP,Mac OS X,1,59,F
+Stuart Reges,M,48,INFP,Mac OS X,18,35,F
+Tpol,F,35,ISTJ,Windows,30,39,M
+Trinity,F,42,ESFP,Linux,35,55,M
+Tyler Durden,M,46,ENFP,Mac OS X,20,39,F
+Valentina Tereshkova,F,71,ENTJ,Mac OS X,55,65,M
+Vint Cerf,M,67,ISFP,Mac OS X,28,55,F
+Yukihiro Matsumoto,M,45,ENTP,Mac OS X,10,25,F
+Zelda,F,59,ESTP,Windows,40,62,M
+pagurino,M,12,ENTJ,Linux,1,45,M

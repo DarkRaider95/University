@@ -1,0 +1,42 @@
+body{
+	text-align: center;
+	background-color: #FFCC66;
+	color: #006666;
+}
+
+h1{
+	font-style: italic;
+	font-size:40pt;
+}
+
+#container{
+	margin-top: 2%;
+	margin-bottom: 5%;
+}
+
+button{
+	background-color: #006666;	
+	color: #FFCC66;
+	width: 30%;
+	height: 10%;
+	font-size:25pt;
+	margin: auto;
+	margin-bottom: 20px;
+	display: block;
+	border-radius: 10px;
+	border: 0;
+}
+
+button:hover{
+	color: #9DBCBC;
+}
+
+.message{
+	font-size: 20pt;
+	color: #FFCC66;
+	margin: auto;
+	margin-bottom:30px;
+	width:40%;
+	background-color: #6B6B6B;
+	border-radius: 10px;
+}

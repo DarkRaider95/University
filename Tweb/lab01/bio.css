@@ -1,0 +1,128 @@
+*{
+	cursor: url(pen.png), url(pen.png), auto;
+}
+
+html, body{
+  height:100%;
+  margin: 0;
+  background-image: url("background.jpg");
+  background-repeat:repeat;
+}
+
+.header{
+	position: relative;
+	height: 10%;
+	width: 100%;
+	background-color:#F0F0F0;
+	text-align: center;
+	color: #A4A400;
+	font-size: 50px;
+}
+
+.column{
+	height: 100%;
+	width: 20%;
+	float:right;
+}
+
+.page{
+	min-height:100%;
+	width: 60%;
+	float: right;
+	background-color: white;
+	overflow: auto;
+}
+
+.navbar{
+	width: 100%;
+	background-color: #F0F0F0;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+
+.nav{
+	list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F0F0F0;
+}
+
+.nav li{
+	float: left;
+	border-right: 1px solid black;
+}
+
+.nav li a{
+	display: block;
+    color: #A4A400;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover{
+	background-color: #111;
+}
+
+.nav li a:active{
+	background-color: gray;
+}
+
+.text ul, .text ol, .text dl{
+	font-size: 11pt;
+	font-family: Georgia;
+	line-height: 1.25em;
+	padding-left: 30px;
+	text-align: justify;
+	padding-right: 20px;
+	color: #404040;
+}
+
+h1{
+	text-align: center;
+	font-weight: bold;
+	font-size: 22pt;
+}
+
+h2{
+	border-bottom: 1px solid black;
+	text-align: left;
+	font-size: 18pt;
+	text-decoration: underline;
+	color:#A4A400;	
+	font-family: Helvetica;
+	letter-spacing: 0.25em;
+}
+
+span{
+	background-color:#F0F0F0;
+}
+
+dl{
+	line-height: 1.25em;
+}
+
+.text h2{
+	clear:right;
+}
+
+#firstp{
+	float:left;
+}
+
+a{
+	color:#A4A400;
+}
+
+.text ul{
+	list-style-image: url('favicon1.ico');
+}
+
+footer{
+	margin-top: 30px;
+}
+
+#val{
+    margin-left: 40%;
+}

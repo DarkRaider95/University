@@ -1,0 +1,97 @@
+html, body{
+  height:100%;
+  margin: 0;
+  background-color: powderblue;
+}
+
+.header{
+	position: relative;
+	height: 10%;
+	width: 100%;
+	background-color:#333;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+.column{
+	height: 100%;
+	width: 20%;
+	float:right;
+}
+
+.page{
+	min-height:100%;
+	width: 60%;
+	float: right;
+	background-color: white;
+	overflow: auto;
+}
+
+.navbar{
+	width: 100%;
+	background-color: #333;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+
+.nav{
+	list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.nav li{
+	 float: left;
+	border-right: 1px solid gray;
+}
+
+.nav li a{
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover{
+	background-color: #111;
+}
+
+.nav li a:active{
+	background-color: gray;
+}
+
+#parentimg img{
+	height: 100%;
+	width: 100%;
+}
+
+.text p {
+font-size: 1em;
+line-height: 1.25em;
+margin: 0.625em 0;
+text-align: justify;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.text p:first-letter {
+font-size: 3.5em;
+line-height: 1em;
+}
+
+.text p + p:first-letter {
+font-size: 1em;
+line-height: 1.25em;
+}
+
+footer{
+	margin-top: 70px;
+}
+
+#val{
+    margin-left: 40%;
+}
