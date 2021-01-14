@@ -57,7 +57,7 @@ def get_synset(lemma):
     params = {
         'lemma': lemma,
         'searchLang': 'EN',
-        'key': '9f73a72d-0ad4-4f30-bf46-5249377326cc'
+        'key': 'KEY'
     }
 
     url = service_url + '?' + urllib.parse.urlencode(params)
