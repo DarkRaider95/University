@@ -14,38 +14,31 @@ processare” le variabili MAP dopo quelle non-MAP: cercate di
 farlo vedere
 
 Reti di Test
- per testare il vostro Progetto BN potete in prima istanza
+Per testare il vostro Progetto BN potete in prima istanza
 usare le semplici BN viste nella teoria e negli esercizi, come:
- rete "earthquake"
- rete Sprinkler
- ecc.
- per sperimentare con reti più grandi potete far riferimento al
-Bayesian Network Repository all'URL:
+* rete "earthquake"
+* rete Sprinkler
+
+Per sperimentare con reti più grandi potete invece far riferimento al Bayesian Network Repository all'URL:
 http://www.bnlearn.com/bnrepository/
 
 Reti di Test
- le reti nel BNR sono fornite in vari formati, tra cui:
- BIF (formato di interchange, purtroppo però una versione
-vecchia non basata su XML)
- NET (consigliata per leggerle con SamIam)
- a sua volta SamIam vi permette di salvare le reti caricate in
-XMLBIF (formato di interchange basato su XML)
- usate poi il parser per XMLBIF che vi ho fornito qui:
+Le reti nel BNR sono fornite in vari formati, tra cui:
+* BIF (formato di interchange, purtroppo però una versione vecchia non basata su XML)
+* NET (consigliata per leggerle con SamIam) a sua volta SamIam vi permette di salvare le reti caricate in XMLBIF (formato di interchange basato su XML)
+
+Usate poi il parser per XMLBIF che vi ho fornito qui:
 https://gitlab2.educ.di.unito.it/ialabstudenti/bnparser
 
 Kalman Filter
- abbiamo visto in classe:
- Kalman Filter su una variabile per transizioni di
-stato/osservazioni lineari
- Kalman Filter su più variabili per transizioni di
-stato/osservazioni lineari
- esistono diverse librerie per l’implementazione di KF, es.:
- Apache commons ne fornisce una implementazione nella classe
-filter.KalmanFilter
-https://commons.apache.org/proper/commons-math/userguide/filter.html
- la libreria EJML offre operazioni su matrici e vari modi per
-implementare i KF:
-https://ejml.org/wiki/index.php?title=Example_Kalman_Filter
+Abbiamo visto in classe:
+* Kalman Filter su una variabile per transizioni di stato/osservazioni lineari
+* Kalman Filter su più variabili per transizioni di stato/osservazioni lineari
+Esistono diverse librerie per l’implementazione di KF, es.:
+* Apache commons ne fornisce una implementazione nella classe filter.KalmanFilter
+  * https://commons.apache.org/proper/commons-math/userguide/filter.html
+*la libreria EJML offre operazioni su matrici e vari modi per implementare i KF:
+  * https://ejml.org/wiki/index.php?title=Example_Kalman_Filter
 
 Kalman Filter: implementazione
 Implementare l’inferenza con i Kalman Filter generali
